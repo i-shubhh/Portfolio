@@ -1,0 +1,19 @@
+{
+  "workbench.startupEditor": "readme",
+  "explorer.compactFolders": false,
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.vite": true,
+    "**/build": true,
+    "**/coverage": true,
+    "**/dist": true,
+    "**/node_modules": true
+  },
+  "search.exclude": {
+    "**/.vite": true,
+    "**/build": true,
+    "**/coverage": true,
+    "**/dist": true,
+    "**/node_modules": true
+  }
+}
